@@ -4,7 +4,7 @@ class Demo{
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter a first number");
 		int num1 =sc.nextInt();
-		System.out.println("enter a first number");
+		System.out.println("enter a second number");
 		int num2 =sc.nextInt();
 		int addition =num1 + num2;
 		System.out.println("Addition is"+ addition);
